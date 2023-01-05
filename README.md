@@ -1,9 +1,17 @@
-- 👋 안녕하세요 개발자가 되기 위해 꿈을 키우는 허보람입니다.
-- 💌 Contact : hboram8@naver.com
-- 🌱 결과도 중요하지만, 과정 속에서 배우는 깨달음도 중요하다고 생각합니다.
 
+# 👩‍💻 기록으로 표현하는 개발자 허보람입니다.
+<br></br>
 
-<!---
-ramivo08/ramivo08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧚‍♀️Introduce
+ - 안녕하세요 신입 백엔드 개발자 **허보람**입니다.<br></br>
+ - 결과도 중요하지만, 과정에서 얻는 깨달음도 중요하다고 생각합니다.<br></br>
+ - **소통**하면서 서로 정보를 공유하면서 **함께하는 것**을 좋아합니다.<br></br>
+ - 호기심이 많아서 새로운 것에 도전하는 것을 즐거워 합니다.<br></br>
+ - 사용자의 **편리함을 추구**하는 것에 관심이 많습니다.<br></br>
+ - 모든 면에서 **효율적으로 처리**할 수 있는 방법을 추구합니다.<br></br>
+
+## 💌contact
+ - **이메일 |** hboram8@naver.com
+ - **블로그 |** https://ramivo.tistory.com
+ - **GitHub |** https://github.com/ramivo08
+ <br></br>
