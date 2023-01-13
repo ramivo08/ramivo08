@@ -16,4 +16,7 @@
  - **Blog |** https://ramivo.tistory.com
  - **GitHub |** https://github.com/ramivo08
  <br></br>
+ 
+## 🛠Skill
+<img  src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img  src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
  <br></br>
