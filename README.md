@@ -12,8 +12,8 @@
  - 모든 면에서 **효율적으로 처리**할 수 있는 방법을 추구합니다.</br>
 
 ## 💌contact
- - **이메일 |** hboram8@naver.com
- - **블로그 |** https://ramivo.tistory.com
+ - **Email |** hboram8@naver.com
+ - **Blog |** https://ramivo.tistory.com
  - **GitHub |** https://github.com/ramivo08
  <br></br>
  <br></br>
