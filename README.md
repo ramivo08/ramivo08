@@ -1,11 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Heo%20BoRam%20&fontSize=90&fontAlignY=40&desc=Hi,there!&descAlignY=60&descSize=30" />
-
-
 ### 👩💻 About Me!</br>
 ### 기록으로 표현하는 개발자, 허보람입니다.</br>
 
 ## 🧚‍♀️Introduce
- - 안녕하세요 신입 백엔드 개발자 **허보람**입니다.</br>
+ - 안녕하세요 주니어 개발자 **허보람**입니다.</br>
  - 결과도 중요하지만, 과정에서 얻는 깨달음도 중요하다고 생각합니다.</br>
  - **'읽기 좋은 코드가 좋은 코드'** 라는 가치관으로 임하려고 합니다.</br>
  - **소통**하면서 서로 정보를 공유하면서 **함께하는 것**을 좋아합니다.</br>
